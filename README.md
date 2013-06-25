@@ -1,4 +1,5 @@
-pyramid_tutorial_bankaccount
+pyramid_tutorials
 ============================
 
-pyramid_tutorial_bankaccount
+### bankaccount
+ * https://pyramid_tutorial_pylonprojectjp.readthedocs.org/en/latest/
